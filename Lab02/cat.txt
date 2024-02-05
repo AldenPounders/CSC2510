@@ -1,1 +1,1 @@
-cat bad
+Alice likes cats
